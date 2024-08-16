@@ -25,5 +25,17 @@
   ],
   "identifier": "com.qn.altstorerepo",
   "name": "Qn_'s AltStore Repo",
+  "news": [
+    {
+      "appID": "com.reddit.Reddit",
+      "caption": "Finally, Reddit can be sideloaded with the ability to block ads and more...",
+      "date": "2022-10-26",
+      "identifier": "reddit-now-available",
+      "imageURL": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG",
+      "notify": false,
+      "tintColor": "ff4600",
+      "title": "RedditFilter is out!"
+    }
+  ],
   "userInfo": {}
 }
